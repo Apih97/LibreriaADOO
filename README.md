@@ -1,2 +1,2 @@
-# libreriados
-Repositorio de la página web para la clase de lenguajes de programación
+# libreria ADOO
+Repositorio de la página web para la clase de Analisis y diseño orientado a objetos
